@@ -5,4 +5,8 @@ How are you
 jaujdn
 =======
 print "Hello Word"
+<<<<<<< HEAD
 >>>>>>> bf0a090ce2a3a3873fab14e8dc0c6445c48ad04b
+=======
+print "Welcome to Python development"
+>>>>>>> 1bf549b31fe95d1908e92ecb9313f99998c10389
