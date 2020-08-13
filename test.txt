@@ -1,4 +1,8 @@
 
 Hello Hai
 How are you
+<<<<<<< HEAD
 jaujdn
+=======
+print "Hello Word"
+>>>>>>> bf0a090ce2a3a3873fab14e8dc0c6445c48ad04b
