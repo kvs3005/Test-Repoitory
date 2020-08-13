@@ -10,3 +10,4 @@ python
 puppet
 yum install git
 su root
+sudo su
